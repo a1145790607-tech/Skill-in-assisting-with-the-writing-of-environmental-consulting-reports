@@ -1,0 +1,7 @@
+interface:
+  display_name: "项目报告与环境咨询写作"
+  short_description: "项目报告、环境咨询和研究论证报告写作与审校。"
+  default_prompt: "Use $environment-consulting-report-writing-skill to revise a Chinese project or environmental consulting report section with standards/baselines before judgement, clear evidence, bounded conclusions, and measures only when within the requested scope."
+
+policy:
+  allow_implicit_invocation: true
